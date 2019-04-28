@@ -1,0 +1,7 @@
+0
+1
+2
+3
+4
+test text to be written to file
+second line of test text to be written

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Files">
+      <UniqueIdentifier>{5d71b216-d2a3-43aa-9c5a-c1d76d0b7ec9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Files">
+      <UniqueIdentifier>{ceacf609-13de-4530-9ee7-53512a64a257}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\StandardTemplateLib">
+      <UniqueIdentifier>{b2b151a6-fcdc-42d0-8103-855073cf125e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\StandardTemplateLib">
+      <UniqueIdentifier>{388898e1-3c8e-4c23-93bd-32db723c4dba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExceptionsBasics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StandardExceptions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomExceptions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyCustomException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WritingTextFiles.cpp">
+      <Filter>Source Files\Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadingTextFiles.cpp">
+      <Filter>Source Files\Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParsingTextFiles.cpp">
+      <Filter>Source Files\Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StructsAndPaddingcpp.cpp">
+      <Filter>Source Files\Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadingAndWritingBinaryFiles.cpp">
+      <Filter>Source Files\Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorPractice.cpp">
+      <Filter>Source Files\StandardTemplateLib</Filter>
+    </ClCompile>
+    <ClCompile Include="ListPractice.cpp">
+      <Filter>Source Files\StandardTemplateLib</Filter>
+    </ClCompile>
+    <ClCompile Include="MapsPractice.cpp">
+      <Filter>Source Files\StandardTemplateLib</Filter>
+    </ClCompile>
+    <ClCompile Include="SetsPractice.cpp">
+      <Filter>Source Files\StandardTemplateLib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ExceptionsBasics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StandardExceptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomExceptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCustomException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WritingTextFiles.h">
+      <Filter>Header Files\Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadingTextFiles.h">
+      <Filter>Header Files\Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParsingTextFiles.h">
+      <Filter>Header Files\Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StructsAndPadding.h">
+      <Filter>Header Files\Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadingAndWritingBinaryFiles.h">
+      <Filter>Header Files\Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorPractice.h">
+      <Filter>Header Files\StandardTemplateLib</Filter>
+    </ClInclude>
+    <ClInclude Include="ListPractice.h">
+      <Filter>Header Files\StandardTemplateLib</Filter>
+    </ClInclude>
+    <ClInclude Include="MapsPractice.h">
+      <Filter>Header Files\StandardTemplateLib</Filter>
+    </ClInclude>
+    <ClInclude Include="SetsPractice.h">
+      <Filter>Header Files\StandardTemplateLib</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
