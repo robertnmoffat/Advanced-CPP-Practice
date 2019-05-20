@@ -11,7 +11,9 @@
 //#include"VectorPractice.h"
 //#include"ListPractice.h"
 //#include"MapsPractice.h"
-#include"SetsPractice.h"
+//#include"SetsPractice.h"
+//#include"StacksnQueues.h"
+#include"SortingVectorsDequeFriend.h"
 
 using namespace std;
 
@@ -48,7 +50,11 @@ int main() {
 	//MapsPractice::customObjectAsMapKey();
 	//MapsPractice::multiMapPractice();
 	
-	SetsPractice::tryitout();
+	//SetsPractice::tryitout();
+
+	//StacksnQueues();
+
+	SortingVectorsDequeFriend::sortingVectors();
 
 	cin >> num;
 

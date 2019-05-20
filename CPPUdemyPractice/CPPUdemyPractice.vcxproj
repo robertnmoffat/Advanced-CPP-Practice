@@ -120,6 +120,8 @@
     <ClCompile Include="ReadingAndWritingBinaryFiles.cpp" />
     <ClCompile Include="ReadingTextFiles.cpp" />
     <ClCompile Include="SetsPractice.cpp" />
+    <ClCompile Include="SortingVectorsDequeFriend.cpp" />
+    <ClCompile Include="StacksnQueues.cpp" />
     <ClCompile Include="StandardExceptions.cpp" />
     <ClCompile Include="StructsAndPaddingcpp.cpp" />
     <ClCompile Include="VectorPractice.cpp" />
@@ -135,6 +137,8 @@
     <ClInclude Include="ReadingAndWritingBinaryFiles.h" />
     <ClInclude Include="ReadingTextFiles.h" />
     <ClInclude Include="SetsPractice.h" />
+    <ClInclude Include="SortingVectorsDequeFriend.h" />
+    <ClInclude Include="StacksnQueues.h" />
     <ClInclude Include="StandardExceptions.h" />
     <ClInclude Include="StructsAndPadding.h" />
     <ClInclude Include="VectorPractice.h" />
