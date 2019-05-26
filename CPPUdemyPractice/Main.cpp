@@ -13,7 +13,8 @@
 //#include"MapsPractice.h"
 //#include"SetsPractice.h"
 //#include"StacksnQueues.h"
-#include"SortingVectorsDequeFriend.h"
+//#include"SortingVectorsDequeFriend.h"
+#include"OverloadingAssignmentOperator.h"
 
 using namespace std;
 
@@ -54,7 +55,9 @@ int main() {
 
 	//StacksnQueues();
 
-	SortingVectorsDequeFriend::sortingVectors();
+	//SortingVectorsDequeFriend::sortingVectors();
+
+	OverloadingAssignmentOperator::OverloadingAssignmentOperator();
 
 	cin >> num;
 

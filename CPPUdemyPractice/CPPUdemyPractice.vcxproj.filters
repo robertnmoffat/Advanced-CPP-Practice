@@ -25,6 +25,12 @@
     <Filter Include="Source Files\StandardTemplateLib">
       <UniqueIdentifier>{388898e1-3c8e-4c23-93bd-32db723c4dba}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\OperatorOverloading">
+      <UniqueIdentifier>{b845cbd3-0c23-49d0-bbd6-c8ee1353fbb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OperatorOverloading">
+      <UniqueIdentifier>{8ecebc5e-36e8-443d-80dd-e1d1572d4e91}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -75,6 +81,9 @@
     <ClCompile Include="SortingVectorsDequeFriend.cpp">
       <Filter>Source Files\StandardTemplateLib</Filter>
     </ClCompile>
+    <ClCompile Include="OverloadingAssignmentOperator.cpp">
+      <Filter>Source Files\OperatorOverloading</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ExceptionsBasics.h">
@@ -121,6 +130,9 @@
     </ClInclude>
     <ClInclude Include="SortingVectorsDequeFriend.h">
       <Filter>Header Files\StandardTemplateLib</Filter>
+    </ClInclude>
+    <ClInclude Include="OverloadingAssignmentOperator.h">
+      <Filter>Header Files\OperatorOverloading</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
