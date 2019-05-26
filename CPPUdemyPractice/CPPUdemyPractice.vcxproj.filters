@@ -84,6 +84,9 @@
     <ClCompile Include="OverloadingAssignmentOperator.cpp">
       <Filter>Source Files\OperatorOverloading</Filter>
     </ClCompile>
+    <ClCompile Include="OverloadingLeftBitShift.cpp">
+      <Filter>Source Files\OperatorOverloading</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ExceptionsBasics.h">
@@ -132,6 +135,9 @@
       <Filter>Header Files\StandardTemplateLib</Filter>
     </ClInclude>
     <ClInclude Include="OverloadingAssignmentOperator.h">
+      <Filter>Header Files\OperatorOverloading</Filter>
+    </ClInclude>
+    <ClInclude Include="OverloadingLeftBitShift.h">
       <Filter>Header Files\OperatorOverloading</Filter>
     </ClInclude>
   </ItemGroup>

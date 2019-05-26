@@ -117,6 +117,7 @@
     <ClCompile Include="MapsPractice.cpp" />
     <ClCompile Include="MyCustomException.cpp" />
     <ClCompile Include="OverloadingAssignmentOperator.cpp" />
+    <ClCompile Include="OverloadingLeftBitShift.cpp" />
     <ClCompile Include="ParsingTextFiles.cpp" />
     <ClCompile Include="ReadingAndWritingBinaryFiles.cpp" />
     <ClCompile Include="ReadingTextFiles.cpp" />
@@ -135,6 +136,7 @@
     <ClInclude Include="MapsPractice.h" />
     <ClInclude Include="MyCustomException.h" />
     <ClInclude Include="OverloadingAssignmentOperator.h" />
+    <ClInclude Include="OverloadingLeftBitShift.h" />
     <ClInclude Include="ParsingTextFiles.h" />
     <ClInclude Include="ReadingAndWritingBinaryFiles.h" />
     <ClInclude Include="ReadingTextFiles.h" />

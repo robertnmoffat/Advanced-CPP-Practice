@@ -14,7 +14,8 @@
 //#include"SetsPractice.h"
 //#include"StacksnQueues.h"
 //#include"SortingVectorsDequeFriend.h"
-#include"OverloadingAssignmentOperator.h"
+//#include"OverloadingAssignmentOperator.h"
+#include"OverloadingLeftBitShift.h"
 
 using namespace std;
 
@@ -57,7 +58,9 @@ int main() {
 
 	//SortingVectorsDequeFriend::sortingVectors();
 
-	OverloadingAssignmentOperator::OverloadingAssignmentOperator();
+	//OverloadingAssignmentOperator::OverloadingAssignmentOperator();
+	
+	OverloadingLeftBitShift::OverloadingLeftBitShift();
 
 	cin >> num;
 
